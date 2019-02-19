@@ -6,4 +6,4 @@
 *.mtx
 data/10x/
 scripts/NeuroCog_scRNA-Seq_Lab_cache/
-
+.DS_Store
