@@ -1,0 +1,11 @@
+sample_id,Genotype,Sex,DOB,SAC_date,Strain,cell_conc,Generation,Viability_perc,cDNA Amp Date,cDNA cycles,Target number of cells,cDNA BioA,Qubit conc,Input into library prep (ng),nCycles_library_prep,i7 barcode,date_library_prep,BioA_library_prep,library_diluted_1_to_10,Qubit_library,Other
+C9-UF-AA-1,WT,Male,5/3/18,5/9/18,C9-500,761 cells/ul,F1,78.75%,9-May,10,"8,000",27.09 ng,43.89 ng,35,14,SI-GA-B5,10-May,1.87 ng/ul,yes,2 ng/ul,
+C9-UF-AA-6,C9-BAC,Male,5/3/18,5/9/18,C9-500,796 cells/ul,F1,86%,9-May,10,"8,000",161.07 ng,210 ng,7.3,14,SI-GA-B6,10-May,0.85 ng/ul,yes,1.13 ng/ul,
+C9-UF-AE-1,C9-BAC,Female,6/19/18,6/26/18,C9-500,750 cells/ul,F2,-,26-Jun,12,"8,000",174.3 ng,189.63 ng,32.3,12,SI-GA-C4,27-Jun,0.688 ng/ul,yes,.425 ng/ul,
+C9-UF-AE-4,WT,Female,6/19/18,6/26/18,C9-500,750 cells/ul,F2,-,26-Jun,12,"8,000",204.96 ng,176.4 ng,33.7,12,SI-GA-C5,27-Jun,0.91 ng/ul,yes,.759 ng/ul,
+C9-UF-AL-8,WT,Female,9/12/18,9/19/18,C9-500,,F2,,,,,,,,,,,,,,
+C9-UF-AG-2,C9-BAC,Female,7/18/18,7/25/18,C9-500,,F2,,,,,,,,,,,,,,
+C9-UF-AL-1,WT,Male,9/12/18,9/19/18,C9-500,,F2,,,,,,,,,,,,,,
+C9-UF-AG-1,WT,Female,7/18/18,7/25/18,C9-500,,F2,,,,,,,,,,,,,,
+C9-UF-AL-4,C9-BAC,Female,9/12/18,9/19/18,C9-500,,F2,,,,,,,,,,,,,,
+C9-UF-AL-7,C9-BAC,Male,9/12/18,9/19/18,C9-500,,F2,,,,,,,,,,,,,,

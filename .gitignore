@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+*.mtx
+data/10x/
+scripts/NeuroCog_scRNA-Seq_Lab_cache/
+
