@@ -306,6 +306,10 @@ genes <- (cluster_marker_res %>%
           dplyr::group_by(Group) %>% dplyr::slice(which.max(specificity)))
 options(repr.plot.width=22, repr.plot.height=12)
 plot_markers_by_group(dat[expressed_genes,], genes$gene_short_name, group_by = 'Cluster', ordering_type = 'maximal_on_diag')
+
+pdf("figures/cluster_markers.pdf",width=7,height=6)
+plot_markers_by_group(dat[expressed_genes,], genes$gene_short_name, group_by = 'Cluster', ordering_type = 'maximal_on_diag')
+dev.off()
 ```
 
 We can also show the expression level for a set of genes in UMAP space as well. For example, we can view a few highly specific genes for a given expression 'Group':
